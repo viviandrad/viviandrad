@@ -1,8 +1,8 @@
 ### Oi👋  Eu sou a Viviane!
 
 
-- 🔭 Hoje eu trabalho como Product Owner
-- 🌱 Estou aprendendo Python
+- 🔭 Hoje eu trabalho como Product Manager
+- 🌱 Estou fazendo o BootCamp do Banco Carrefor Woman Developer
 - 📫 How to reach me: vivianeandradb@gmail.com
 - 😄 Pronouns: Ela / dela
 
