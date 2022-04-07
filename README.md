@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho como Product Manager
-- 🌱 Estou fazendo o BootCamp do Banco Carrefor Woman Developer
+- 🌱 Estou fazendo o BootCamp do Órbi Web Games Developer
 - 📫 How to reach me: vivianeandradb@gmail.com
 - 😄 Pronouns: Ela / dela
 
